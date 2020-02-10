@@ -1,3 +1,2 @@
 # SampleJenkinsProject
-This Project demonstrate the build processes
-aaa
+This Project demonstrate the build process...
